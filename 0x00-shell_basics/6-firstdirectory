@@ -1,2 +1,2 @@
-#!/bin/bah
-mkdir my_firts_directory /root/tmp 
+#!/bin/bash
+cd /tmp/; mkdir my_firts_directory 
